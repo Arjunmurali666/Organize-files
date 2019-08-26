@@ -51,3 +51,26 @@ for item in os.walk(location):
             
                         break
 ```
+
+### The sample output of this code will looks like as follows.
+
+- drwxrwxr-x 10 ubuntu ubuntu 4096 Aug 26 06:04 ./
+
+- drwxr-xr-x 28 ubuntu ubuntu 4096 Aug 26 06:03 ../
+
+- drwxrwxr-x  2 ubuntu ubuntu 4096 Aug 26 06:04 other-files/
+
+- drwxrwxr-x  3 ubuntu ubuntu 4096 Aug 26 05:58 test-bz/
+
+- drwxrwxr-x  2 ubuntu ubuntu 4096 Aug 26 05:58 test-conf/
+
+- drwxrwxr-x  2 ubuntu ubuntu 4096 Aug 26 05:58 test-gz/
+
+- drwxrwxr-x  2 ubuntu ubuntu 4096 Aug 26 06:04 test-ipynb/
+
+- drwxrwxr-x  2 ubuntu ubuntu 4096 Aug 26 05:58 test-mp3/
+
+- drwxrwxr-x  3 ubuntu ubuntu 4096 Aug 26 06:04 test-py/
+
+- drwxrwxr-x  2 ubuntu ubuntu 4096 Aug 26 05:58 test-txt/
+
